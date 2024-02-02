@@ -1,4 +1,4 @@
 for _ in range(int(input())):
-    n, m = map(int, input().split())
+    a, m = map(int, input().split())
     res=m//2
-    print(n*res)
+    print(a*res)
